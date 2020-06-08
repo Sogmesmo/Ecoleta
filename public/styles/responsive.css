@@ -26,7 +26,7 @@
         height: 200px;
     }
 
-    #page-create-point .field-group {
+    #page-create-point .field-group{
         flex-direction: column;
     }
 
